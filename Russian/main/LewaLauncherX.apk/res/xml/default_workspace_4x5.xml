@@ -3,7 +3,7 @@
   xmlns:launcher="http://schemas.android.com/apk/res/com.lewa.launcher">
     <favorite launcher:container="-101" launcher:screen="-1" launcher:x="0" launcher:y="0" launcher:appType="PHONE" />
     <favorite launcher:container="-101" launcher:screen="-1" launcher:x="1" launcher:y="0" launcher:appType="CONTACTS" />
-    <favorite launcher:container="-101" launcher:screen="-1" launcher:x="2" launcher:y="0" launcher:className="me.android.browser.provider.BrowserProvider2" launcher:packageName="me.android.browser" />
+    <favorite launcher:container="-101" launcher:screen="-1" launcher:x="2" launcher:y="0" launcher:className="me.android.browser.BrowserActivity" launcher:packageName="me.android.browser" />
     <favorite launcher:container="-101" launcher:screen="-1" launcher:x="3" launcher:y="0" launcher:appType="MMS" />
     <appwidget launcher:className="com.lewa.weather.widget.WeatherWidgetV5_time" launcher:packageName="com.lewa.weather" launcher:screen="0" launcher:x="0" launcher:y="0" launcher:spanX="3" launcher:spanY="2" />
     <favorite launcher:screen="0" launcher:x="0" launcher:y="3" launcher:appType="CAMERA" />
