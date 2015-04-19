@@ -14,7 +14,6 @@
     <favorite launcher:screen="0" launcher:x="1" launcher:y="4" launcher:appType="CLOCK" />
     <favorite launcher:className="com.android.settings.LewaSettings" launcher:packageName="com.android.settings" launcher:screen="0" launcher:x="2" launcher:y="4" />
     <favorite launcher:className="com.android.vending.AssetBrowserActivity" launcher:packageName="com.android.vending" launcher:screen="0" launcher:x="3" launcher:y="4" />
-    <appwidget launcher:className="com.sand.airdroid.ui.widget.ConnectionWidget" launcher:packageName="com.sand.airdroid" launcher:screen="1" launcher:x="0" launcher:y="0" launcher:spanX="4" launcher:spanY="1" />
     <favorite launcher:className="com.lewa.player.activity.SplashActivity" launcher:packageName="com.lewa.player" launcher:screen="1" launcher:x="0" launcher:y="2" />
     <folder launcher:screen="1" launcher:x="1" launcher:y="2" launcher:title="@string/system_secrity_folder">
         <favorite launcher:className="com.lewa.security.SecurityActivity" launcher:packageName="com.lewa.security" />
@@ -39,7 +38,6 @@
     </folder>
     <favorite launcher:screen="1" launcher:x="3" launcher:y="2" launcher:appType="CALENDAR" />
     <favorite launcher:className="com.google.android.gm.ConversationListActivityGmail" launcher:packageName="com.google.android.gm" launcher:screen="1" launcher:x="0" launcher:y="3" />
-    <favorite launcher:className="com.sand.airdroid.ui.splash.SplashActivity_" launcher:packageName="com.sand.airdroid" launcher:screen="1" launcher:x="0" launcher:y="3" />
-    <favorite launcher:className="com.speedsoftware.rootexplorer.RootExplorer" launcher:packageName="com.speedsoftware.rootexplorer" launcher:screen="1" launcher:x="1" launcher:y="3" />
+    <favorite launcher:className="com.speedsoftware.rootexplorer.RootExplorer" launcher:packageName="com.speedsoftware.rootexplorer" launcher:screen="1" launcher:x="0" launcher:y="3" />
     <noncustom launcher:container="-101" launcher:screen="1" launcher:x="0" launcher:y="0" />
 </favorites>
